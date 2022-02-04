@@ -6,7 +6,7 @@ import os
 from time import sleep
 
 
-def acilis_sayfasi():
+def acilis_sayfasi():-
     konsol.print("""
     [green][[/][yellow] 1 [/][green]][/] [cyan]Session Oluştur[/]
     [green][[/][yellow] 2 [/][green]][/] [cyan]Gruptan User Dızla[/]
